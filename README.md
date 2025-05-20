@@ -47,7 +47,9 @@ while True:
 ```
 
 <H3> Output:</H3>
-![{6A1D47A5-3577-46B6-BFAC-F7A55837089A}](https://github.com/user-attachments/assets/5fa75f53-c904-45be-a15f-4cd642f039ac)
+
+
+![image](https://github.com/user-attachments/assets/46908032-b789-40a0-8aaf-27606ecae5bc)
 
 
 
